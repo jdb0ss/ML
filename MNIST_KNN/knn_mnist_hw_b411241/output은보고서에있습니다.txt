@@ -1,0 +1,1 @@
+output은 보고서인 mnistHW_b411241.pdf 에있습니다
